@@ -15,6 +15,9 @@ class MainActivity : ComponentActivity() {
         setContent {
             Evacont1Theme {
                 calcularAlcohol()
+                //OperarNumeros()
+                //VerificarMes()
+                //ImprimirSuma()
 
 
             }
